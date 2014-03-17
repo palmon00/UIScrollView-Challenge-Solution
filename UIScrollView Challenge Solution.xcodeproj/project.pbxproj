@@ -21,6 +21,7 @@
 		1E47CEF918D6BA5E00FEDD87 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E47CEDB18D6BA5E00FEDD87 /* UIKit.framework */; };
 		1E47CF0118D6BA5E00FEDD87 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1E47CEFF18D6BA5E00FEDD87 /* InfoPlist.strings */; };
 		1E47CF0318D6BA5E00FEDD87 /* UIScrollView_Challenge_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E47CF0218D6BA5E00FEDD87 /* UIScrollView_Challenge_SolutionTests.m */; };
+		1E47CF0D18D6BAD000FEDD87 /* world-map.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1E47CF0C18D6BAD000FEDD87 /* world-map.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		1E47CEFE18D6BA5E00FEDD87 /* UIScrollView Challenge SolutionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIScrollView Challenge SolutionTests-Info.plist"; sourceTree = "<group>"; };
 		1E47CF0018D6BA5E00FEDD87 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1E47CF0218D6BA5E00FEDD87 /* UIScrollView_Challenge_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollView_Challenge_SolutionTests.m; sourceTree = "<group>"; };
+		1E47CF0C18D6BAD000FEDD87 /* world-map.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "world-map.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		1E47CEDE18D6BA5E00FEDD87 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1E47CF0C18D6BAD000FEDD87 /* world-map.jpeg */,
 				1E47CEDF18D6BA5E00FEDD87 /* UIScrollView Challenge Solution-Info.plist */,
 				1E47CEE018D6BA5E00FEDD87 /* InfoPlist.strings */,
 				1E47CEE318D6BA5E00FEDD87 /* main.m */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E47CEF018D6BA5E00FEDD87 /* Images.xcassets in Resources */,
+				1E47CF0D18D6BAD000FEDD87 /* world-map.jpeg in Resources */,
 				1E47CEE218D6BA5E00FEDD87 /* InfoPlist.strings in Resources */,
 				1E47CEEB18D6BA5E00FEDD87 /* Main.storyboard in Resources */,
 			);
